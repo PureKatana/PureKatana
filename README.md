@@ -4,9 +4,9 @@
 <h2>👨‍💻 Game Projects:</h2>
 
 - <b>Unity projects</b>
-  - [The Last pilgrim, an open world RPG third person shooter game. (team project)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [The Last pilgrim, an open world RPG third person shooter game. (team project)](https://github.com/PureKatana/TheLastPilgrim)
 - <b>Unreal Engine 5 projects</b>
-  - [FPS zombie game. (solo project)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [FPS zombie game. (solo project)](https://github.com/PureKatana/FPSZombieGame)
   - [Project L, a soulslike action RPG game. (team project - Work in progress)](https://github.com/PureKatana/Project-L)
 
 
