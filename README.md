@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kevin! </h1>
-<h3>I am a new game programmer looking for a first experience opportunity! </h3>
+<h3>I am a new game programmer looking for a first experience opportunity in the gaming industry! </h3>
 
 <h2>👨‍💻 Game Projects:</h2>
 
