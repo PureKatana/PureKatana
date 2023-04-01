@@ -6,8 +6,8 @@
 - <b>Unity projects</b>
   - [The Last pilgrim, an open world RPG third person shooter game. (team project)](https://github.com/PureKatana/TheLastPilgrim)
 - <b>Unreal Engine 5 projects</b>
-  - [Apocalypse Rising (solo project)](https://github.com/PureKatana/FPSZombieGame)
+  - [Apocalypse Rising, a FPS zombie game. (solo project)](https://github.com/PureKatana/FPSZombieGame)
   - [Soulblade, a soulslike action RPG game. (team project - Work in progress)](https://github.com/PureKatana/Project-L)
-  - [Blast Wars (solo project - Work in progress)](https://github.com/PureKatana/BlastWars)
+  - [Blast Wars, a multiplayer shooting game. (solo project - Work in progress)](https://github.com/PureKatana/BlastWars)
 
 
