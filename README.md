@@ -3,6 +3,9 @@
 
 <h3>Currently working on a project at CDU Game Studios Inc.</h3>
 
+<h3>Check out my Youtube channel for demos</h3>
+[Youtube Channel](https://www.youtube.com/@purekatana2745)
+
 <h2>👨‍💻 Game Projects:</h2>
 
 - <b>Unity projects</b>
@@ -10,5 +13,6 @@
 - <b>Unreal Engine 5 projects</b>
   - [Apocalypse Rising, a FPS zombie game. (solo project)](https://github.com/PureKatana/FPSZombieGame)
   - [Blast Wars, a multiplayer shooting game. (solo project)](https://github.com/PureKatana/BlastWars)
+
 
 
