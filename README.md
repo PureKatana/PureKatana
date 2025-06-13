@@ -11,7 +11,7 @@
   - [Apocalypse Rising, a FPS zombie game. (solo project)](https://github.com/PureKatana/FPSZombieGame)
   - [Blast Wars, a multiplayer shooting game. (solo project)](https://github.com/PureKatana/BlastWars)
 - <b>Other</b>
-  - [Spectrum Retreat, a puzzle game using Modern OpenGL and C++](https:://github.com/PureKatana/SpectrumRetreat)
+  - [Spectrum Retreat, a puzzle game using Modern OpenGL and C++](https://github.com/PureKatana/SpectrumRetreat)
 
 
 
